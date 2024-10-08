@@ -46,4 +46,3 @@ dispatch_2 = [
 
 print(solution.getTotalIsles(dispatch_1))  # Output: 1
 print(solution.getTotalIsles(dispatch_2))  # Output: 3
-
